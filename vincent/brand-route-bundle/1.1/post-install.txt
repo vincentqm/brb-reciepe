@@ -1,0 +1,5 @@
+<bg=green;fg=white> Brand route bundle successfully install</>
+
+* <fg=blue>Now you need add routes to</> your application:
+    brand_route_bundle:
+        resource: '@BrandRouteBundle/Resources/config/routing.yaml'</>
