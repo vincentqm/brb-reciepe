@@ -1,0 +1,10 @@
+brand_route:
+  config:
+    landings:
+      route_name: ''
+      file_path: ''
+      slug_placeholder: ''
+      template_path: ''
+      mirrors: ''
+    routes:
+      placeholders_class: ''
