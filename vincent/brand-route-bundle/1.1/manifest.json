@@ -3,9 +3,10 @@
     "Vincent\\BrandRouteBundle\\BrandRouteBundle": ["all"]
   },
   "copy-from-recipe": {
-    "config/": "%CONFIG_DIR%/packages/"
+    "config/": "%CONFIG_DIR%/"
   },
   "env": {
     "BRB_ALLOW_IP": "127.0.0.1"
   }
 }
+
